@@ -16,6 +16,10 @@ I'm Ana a budding data analyst and an International Energy Major Graduate at Sci
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasubs&layout=compact)](https://github.com/anasubs/github-readme-stats)
 
+- 🌱 I’m currently learning Python, SQL and other fun stuff. Slowly...
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I am obssessed with pugs. I speak English, French, Korean and Croatian.
+
 
 <!--
 Here are some ideas to get you started:
@@ -28,4 +32,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+### How about a little 🐍 game
 -->
