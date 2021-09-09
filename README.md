@@ -18,7 +18,7 @@ I'm Ana a budding data analyst and an International Energy Major Graduate at Sci
 
 - 🌱 I’m currently learning Python, SQL and other fun stuff. Slowly...
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am obssessed with pugs. I speak English, French, Korean and Croatian.
+- ⚡ Fun fact: I am obssessed with pugs 🐕 I speak English, French, Korean and Croatian.
 
 
 <!--
